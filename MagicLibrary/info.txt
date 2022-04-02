@@ -1,0 +1,2 @@
+V rámci maturitní práce jsem vytvářel počítačovou hru v Unity3D, ve které hráč používal jednoduchý programovací jazyk k řešení hádanek.
+Tato knihovna zajištuje jak funkčnost tohoto jazyka, tak i fungování jeho editoru ve hře.

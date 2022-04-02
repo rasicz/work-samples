@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+UXXj/EuLULCVIB7y0ctstugPCwJ7dtKKd2ZWIbzDhVPTthUti0NPMdU8Uroeg45C4y/PnKWFNi6Wjuo5AiAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasicz\\Desktop\\projekty\\MagicLibrary\\MagicLibrary\\MagicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasicz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rasicz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

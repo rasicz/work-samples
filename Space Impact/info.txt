@@ -1,0 +1,2 @@
+Tento projekt jsem vytvářel na začátku 4.ročníku. 
+Jedná se o jednoduchou mobilní hru vytvářenou v Unity3D.

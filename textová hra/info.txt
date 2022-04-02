@@ -1,0 +1,2 @@
+Toto je konzolová aplikace, kterou jsem vytvářel v rámci školního projektu na konci 2.ročníku.
+Jedná se o textovou hru pro dva hráče.

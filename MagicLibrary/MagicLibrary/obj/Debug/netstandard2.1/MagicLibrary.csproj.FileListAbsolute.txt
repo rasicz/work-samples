@@ -1,0 +1,12 @@
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\bin\Debug\netstandard2.1\MagicLibrary.deps.json
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\bin\Debug\netstandard2.1\MagicLibrary.dll
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\bin\Debug\netstandard2.1\MagicLibrary.pdb
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\bin\Debug\netstandard2.1\UnityEngine.xml
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.csprojAssemblyReference.cache
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.AssemblyInfoInputs.cache
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.AssemblyInfo.cs
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.csproj.CopyComplete
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.dll
+C:\Users\rasicz\Documents\promágování\Aktivní\knihovny\MagicLibrary\MagicLibrary\obj\Debug\netstandard2.1\MagicLibrary.pdb

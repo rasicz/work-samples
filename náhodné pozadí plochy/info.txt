@@ -1,0 +1,8 @@
+Tento projekt jsem vytvářel během 3.ročníku na střední škole. 
+
+Skládá se ze dvou částí. První program beží na serveru.
+Každou hodinu načte obsah veřejného fóra, kde uživatelé sdílejí tapety pro plochu počítače a uloží odkazy na tyto pozadí.
+
+Druhý program je na počítači uživatele. Po zapnutí počítače načte odkazy na tapety ze serveru, jeden náhodně vybere a uloží ho jako pozadí.
+Výsledkem je, že se při každém zapnutí počítače náhodně nastaví tapeta plochy.
+Program obsahuje kontrolu vhodnosti tapet a schopnost se aktualizovat.

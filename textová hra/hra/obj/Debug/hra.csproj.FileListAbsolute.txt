@@ -1,0 +1,45 @@
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.exe.config
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.exe
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.pdb
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.csprojResolveAssemblyReference.cache
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.exe
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.pdb
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.exe.config
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.exe
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\hra.pdb
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.csprojAssemblyReference.cache
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.exe
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra\hra\obj\Debug\hra.pdb
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra\hra\bin\Debug\War Age offline.exe.config
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.exe.config
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.exe
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.pdb
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\hra.csprojResolveAssemblyReference.cache
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\War Age offline.exe
+C:\Users\vlcekric\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\War Age offline.pdb
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.exe.config
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.exe
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\bin\Debug\War Age offline.pdb
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\hra.csprojAssemblyReference.cache
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\War Age offline.exe
+C:\Users\vlcek\OneDrive\visual studio - hra\projekty\hra - 1.0\hra\obj\Debug\War Age offline.pdb
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe.config
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.exe
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.pdb
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.pdb
+C:\Users\VlcekRic\OneDrive\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\hra.csprojResolveAssemblyReference.cache
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\hra.csprojAssemblyReference.cache
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\hra.csproj.CoreCompileInputs.cache
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.exe
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.pdb
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe.config
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe
+C:\Users\rasicz\OneDrive\funkční 'H'\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.pdb
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe.config
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.exe
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\bin\Debug\War Age offline.pdb
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\hra.csproj.AssemblyReference.cache
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\hra.csproj.CoreCompileInputs.cache
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.exe
+C:\Users\rasicz\Desktop\projekty\visual studio - hra\projekty\hra - 1.0 protože onedrive\hra\obj\Debug\War Age offline.pdb
